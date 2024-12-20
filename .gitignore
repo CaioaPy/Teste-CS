@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.dbmdl
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build and distribution files
+dist/
+build/
